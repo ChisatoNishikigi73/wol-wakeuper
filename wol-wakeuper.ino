@@ -23,7 +23,7 @@ const char* server_host = "";
 const int server_port = -1;
 
 const char* device_description = "Test Device 1";
-const char* device_password = "123456";
+const char* device_password = "";
 
 WebSocketsClient webSocket;
 
